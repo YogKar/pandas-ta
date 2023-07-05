@@ -116,7 +116,7 @@ Latest Version
 Best choice! Version: *0.3.14b*
 * Includes all fixes and updates between **pypi** and what is covered in this README.
 ```sh
-$ pip install -U git+https://github.com/twopirllc/pandas-ta
+$ pip install -U git+https://github.com/YogKar/pandas-ta
 ```
 
 Cutting Edge
